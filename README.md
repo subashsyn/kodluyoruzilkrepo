@@ -2,6 +2,7 @@
 
 Bu repo Kodluyruz Front-End Eğitiminde oluşturduğumuz ilk repo.İçerisinde bir adet README dosyası bir adet de index.html barındırıyor.
 
+![](https://raw.githubusercontent.com/subashsyn/kodluyoruzilkrepo/b0c905e295fc397039d5995355d22ede6fd4c2b2/ilk%C3%B6dev.png)
 
 # Installation
 
